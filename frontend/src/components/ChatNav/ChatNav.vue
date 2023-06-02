@@ -36,12 +36,13 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
-    url: 'https://github.com/adams549659584/go-proxy-bingai',
+    label: 'AI三杯茶官网',
+    url: 'https://www.aibxw.com',
   },
   {
-    key: navType.version,
-    label: '版本信息',
+    key: navType.github,
+    label: 'ChatGPT国内版',
+    url: 'https://chat.aibxw.com',
   },
   {
     key: navType.chatService,
